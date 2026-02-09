@@ -67,7 +67,7 @@ p {
   margin-bottom: 20px;
   line-height: 1.2;
   color: #ffffff;
-  text-align: left;
+  text-align: right;
 }
 
 .banner2 p {
@@ -77,5 +77,5 @@ p {
   max-width: 700px;
   line-height: 1.5;
   color: #b4cbff;
-  text-align: left;
+  text-align: right;
 }

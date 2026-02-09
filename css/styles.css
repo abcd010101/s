@@ -57,8 +57,10 @@ p {
   margin:0 -40px;
 }
 
-.banner2 .content1 {
+.banner2 .conten2 {
   padding: 80px 20px;
+  text-align: right;
+  margin: 0 180px;
 }
 
 .banner2 h1 {
@@ -67,7 +69,6 @@ p {
   margin-bottom: 20px;
   line-height: 1.2;
   color: #ffffff;
-  text-align: right;
 }
 
 .banner2 p {
@@ -76,6 +77,5 @@ p {
   margin: 0 auto;
   max-width: 700px;
   line-height: 1.5;
-  color: #b4cbff;
-  text-align: right;
+  color: #ffb4de;
 }

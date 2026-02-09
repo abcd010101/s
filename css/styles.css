@@ -79,3 +79,32 @@ p {
   line-height: 1.5;
   color: #ffb4de;
 }
+
+
+.text1 {
+  color: black;
+  margin:0 -40px;
+}
+
+.text1 .words1 {
+  padding: 80px 20px;
+  text-align: right;
+  margin: 0 180px;
+}
+
+.text1 h1 {
+  font-size: 3.5rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+  line-height: 1.2;
+  color: #ffffff;
+}
+
+.text1 p {
+  font-size: 1.25rem;
+  font-weight: 400;
+  margin: 0 auto;
+  max-width: 700px;
+  line-height: 1.5;
+  color: #ffb4de;
+}

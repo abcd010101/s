@@ -22,18 +22,18 @@ p {
 }
 
 
-.banner {
+.banner1 {
   background: linear-gradient(135deg, #6a11cb, #2575fc);
   color: white;
   margin:0 -40px;
 }
 
-.banner .content {
+.banner1 .content1 {
   padding: 80px 20px;
   text-align: center;
 }
 
-.banner h1 {
+.banner1 h1 {
   font-size: 3.5rem;
   font-weight: 700;
   margin-bottom: 20px;
@@ -41,7 +41,7 @@ p {
   color: #ffffff;
 }
 
-.banner p {
+.banner1 p {
   font-size: 1.25rem;
   font-weight: 400;
   margin: 0 auto;

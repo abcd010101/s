@@ -29,6 +29,7 @@ p {
   text-align: center;
   padding: 120px 20px;
   font-family: 'Poppins', sans-serif;
+  width: 100%;
 }
 
 .banner h1 {

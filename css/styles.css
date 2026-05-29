@@ -111,6 +111,7 @@ p {
   flex: 1;
   display: flex;
   justify-content: flex-end;
+  width: 100%
 }
 
 .text1 .image-container img {
